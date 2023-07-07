@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="15008000">
+<Project Type="Project" LVVersion="20008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
@@ -86,9 +86,29 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="f91ee8b73752e7c9" Type="Document"/>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Thorlabs.TSI.ColorInterfaces" Type="Document" URL="Thorlabs.TSI.ColorInterfaces">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Thorlabs.TSI.ColorInterfaces.dll" Type="Document" URL="../../../../../../../../code/Host/Installer/Scientific Camera Interfaces/LabVIEW/32_bit/Library_X86/Thorlabs.TSI.ColorInterfaces.dll"/>
+			<Item Name="Thorlabs.TSI.ColorProcessor" Type="Document" URL="Thorlabs.TSI.ColorProcessor">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Thorlabs.TSI.ColorProcessor.dll" Type="Document" URL="../../../../../../../../code/Host/Installer/Scientific Camera Interfaces/LabVIEW/32_bit/Library_X86/Thorlabs.TSI.ColorProcessor.dll"/>
+			<Item Name="Thorlabs.TSI.CoreInterfaces.dll" Type="Document" URL="../../../../../../../../code/Host/Installer/Scientific Camera Interfaces/LabVIEW/32_bit/Library_X86/Thorlabs.TSI.CoreInterfaces.dll"/>
+			<Item Name="Thorlabs.TSI.Demosaicker" Type="Document" URL="Thorlabs.TSI.Demosaicker">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Thorlabs.TSI.Demosaicker.dll" Type="Document" URL="../../../../../../../../code/Host/Installer/Scientific Camera Interfaces/LabVIEW/32_bit/Library_X86/Thorlabs.TSI.Demosaicker.dll"/>
+			<Item Name="Thorlabs.TSI.ImageData.dll" Type="Document" URL="../../../../../../../../code/Host/Installer/Scientific Camera Interfaces/LabVIEW/32_bit/Library_X86/Thorlabs.TSI.ImageData.dll"/>
+			<Item Name="Thorlabs.TSI.ImageDataInterfaces.dll" Type="Document" URL="../../../../../../../../code/Host/Installer/Scientific Camera Interfaces/LabVIEW/32_bit/Library_X86/Thorlabs.TSI.ImageDataInterfaces.dll"/>
+			<Item Name="Thorlabs.TSI.PolarizationInterfaces.dll" Type="Document" URL="../../../../../../../../code/Host/Installer/Scientific Camera Interfaces/LabVIEW/32_bit/Library_X86/Thorlabs.TSI.PolarizationInterfaces.dll"/>
+			<Item Name="Thorlabs.TSI.PolarizationProcessor.dll" Type="Document" URL="../../../../../../../../code/Host/Installer/Scientific Camera Interfaces/LabVIEW/32_bit/Library_X86/Thorlabs.TSI.PolarizationProcessor.dll"/>
+			<Item Name="Thorlabs.TSI.TLCamera.dll" Type="Document" URL="../../../../../../../../code/Host/Installer/Scientific Camera Interfaces/LabVIEW/32_bit/Library_X86/Thorlabs.TSI.TLCamera.dll"/>
+			<Item Name="Thorlabs.TSI.TLCameraInterfaces.dll" Type="Document" URL="../../../../../../../../code/Host/Installer/Scientific Camera Interfaces/LabVIEW/32_bit/Library_X86/Thorlabs.TSI.TLCameraInterfaces.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
